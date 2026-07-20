@@ -64,3 +64,5 @@ Marketing Technology | CRM | Email Marketing | Marketing Automation | Lead Gener
 LinkedIn: https://linkedin.com/in/beatriz-sanchez-martech/
 
 GitHub: https://github.com/BeatrizGSA
+
+GitHub Page: https://beatrizgsa.github.io/Email-Marketing-Portfolio/
