@@ -57,7 +57,7 @@ The repository reflects my interest in Marketing Technology (MarTech), where str
 
 ## Author
 
-**Beatriz Sánchez**
+**Beatriz G. Sánchez A.**
 
 Marketing Technology | CRM | Email Marketing | Marketing Automation | Lead Generation
 
