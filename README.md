@@ -37,4 +37,4 @@ A post-purchase email focused on customer retention and brand experience.
 -HTML Email Development
 -UX Writing
 
-/ All campaigns were created as portfolio projects to demonstrate marketing strategy, email structure, and responsive HTML development.
+All campaigns were created as portfolio projects to demonstrate marketing strategy, email structure, and responsive HTML development.
