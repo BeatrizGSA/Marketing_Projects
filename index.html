@@ -6,7 +6,7 @@
 
   <title>Beatriz Sánchez | Email Marketing Portfolio</title>
 
-  <style>
+<style>
     * {
       box-sizing: border-box;
     }
@@ -27,13 +27,31 @@
     }
 
     header h1 {
-      margin: 0 0 12px;
+      margin: 0;
       font-size: 42px;
+      color: #6527F5;
+      font-weight: 700;
+    }
+
+    /* Línea decorativa */
+    header h1::after{
+      content:"";
+      display:block;
+      width:140px;
+      height:4px;
+      margin:18px auto 0;
+      border-radius:20px;
+      background:linear-gradient(
+        90deg,
+        #6527F5,
+        #CC27F5,
+        #F527B7
+      );
     }
 
     header p {
       max-width: 760px;
-      margin: 0 auto;
+      margin: 30px auto 0;
       color: #5f6368;
       font-size: 18px;
     }
@@ -51,6 +69,7 @@
 
     .intro h2 {
       margin-bottom: 12px;
+      color:#6527F5;
     }
 
     .projects {
@@ -65,14 +84,21 @@
       border-radius: 14px;
       padding: 26px;
       box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+      transition:.25s ease;
+    }
+
+    .card:hover{
+      transform:translateY(-4px);
+      box-shadow:0 15px 35px rgba(101,39,245,.12);
     }
 
     .card .category {
       display: inline-block;
       margin-bottom: 14px;
-      padding: 6px 10px;
+      padding: 6px 12px;
       border-radius: 20px;
-      background-color: #eef1f5;
+      background:#F3EEFF;
+      color:#6527F5;
       font-size: 13px;
       font-weight: bold;
     }
@@ -92,14 +118,16 @@
       margin-top: 12px;
       padding: 11px 18px;
       border-radius: 8px;
-      background-color: #202124;
-      color: #ffffff;
+      background:#6527F5;
+      color:#ffffff;
       text-decoration: none;
       font-weight: bold;
+      transition:.25s ease;
     }
 
     .button:hover {
-      opacity: 0.85;
+      background:#F527B7;
+      transform:translateY(-2px);
     }
 
     .skills {
@@ -111,6 +139,10 @@
       border: 1px solid #e3e6ea;
     }
 
+    .skills h2{
+      color:#6527F5;
+    }
+
     .skills p {
       max-width: 800px;
       margin: 0 auto;
@@ -119,17 +151,28 @@
 
     footer {
       margin-top: 56px;
-      padding: 32px 20px;
-      background-color: #202124;
-      color: #ffffff;
+      padding: 38px 20px;
+      background:#6527F5;
+      color:#ffffff;
       text-align: center;
     }
 
+    footer strong{
+      font-size:20px;
+    }
+
     footer a {
-      color: #ffffff;
+      color:#ffffff;
+      text-decoration:none;
+      transition:.25s ease;
+    }
+
+    footer a:hover{
+      color:#F527B7;
     }
 
     @media (max-width: 600px) {
+
       header {
         padding: 44px 20px;
       }
@@ -141,8 +184,9 @@
       .card p {
         min-height: auto;
       }
+
     }
-  </style>
+</style>
 </head>
 
 <body>
@@ -248,7 +292,7 @@
   <footer>
     <p>
       <strong>Beatriz G. Sánchez A.</strong><br>
-      Marketing Technology · CRM · Email Marketing · Marketing Automation
+      Marketing Technology • CRM • Email Marketing • Customer Journeys
     </p>
 
     <p>
