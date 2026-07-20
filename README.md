@@ -1,40 +1,66 @@
-# Email-Marketing-Portfolio
+# 📧 Email Marketing Portfolio
 
-Welcome!
+## About Me
 
-This repository showcases a selection of email marketing projects created to demonstrate my approach to lifecycle marketing, customer journeys, and marketing automation.
+Marketing Technology professional with 7+ years of experience in Digital Marketing, CRM, Lead Generation, and Email Marketing. This repository showcases responsive HTML email campaigns designed to demonstrate my approach to lifecycle marketing, customer journeys, marketing automation, and conversion-focused communication.
 
-The campaigns combine marketing strategy, copywriting, HTML email design, and customer experience principles.
+Each project reflects my process of combining marketing strategy, copywriting, user experience, and HTML email development to create engaging customer communications.
 
-# Featured Campaigns
-# Welcome Email
+---
 
-Designed to introduce new subscribers to a brand while encouraging first engagement.
+# Portfolio Projects
 
-# Educational Lead Nurturing
+| Campaign | Objective | Category |
+|----------|-----------|----------|
+| Welcome Email | Introduce new subscribers and encourage first engagement. | Lifecycle Marketing |
+| Educational Lead Nurturing | Guide prospective students through the decision-making process using educational content. | Lead Nurturing |
+| Scholarship Promotion | Promote an international scholarship program and increase applications. | Promotional Campaign |
+| Abandoned Cart Recovery | Re-engage customers and recover potential sales after cart abandonment. | Marketing Automation |
+| Thank You for Your Purchase | Strengthen customer relationships after purchase and encourage retention. | Customer Retention |
 
-A nurturing email focused on guiding prospective students through the decision-making process.
-
-# Scholarship Promotion
-
-A promotional campaign encouraging applications for an international scholarship.
-
-# Abandoned Cart Recovery
-
-A recovery email designed to re-engage customers and increase conversions.
-
-# Thank You for Your Purchase
-
-A post-purchase email focused on customer retention and brand experience.
+---
 
 # Skills Demonstrated
--Email Marketing
--Lifecycle Marketing
--Customer Journey
--Copywriting
--CRM
--Marketing Automation
--HTML Email Development
--UX Writing
 
-All campaigns were created as portfolio projects to demonstrate marketing strategy, email structure, and responsive HTML development.
+- Email Marketing
+- CRM Marketing
+- Lifecycle Marketing
+- Lead Generation
+- Marketing Automation
+- Customer Journey Design
+- Copywriting
+- Responsive HTML Email Development
+- UX Writing
+- Conversion-Oriented Communication
+
+---
+
+# Purpose
+
+These projects were created as portfolio pieces to demonstrate my ability to plan, write, design, and develop responsive HTML email campaigns aligned with marketing objectives and customer experience best practices.
+
+The repository reflects my interest in Marketing Technology (MarTech), where strategy, automation, design, and technology work together to improve customer engagement and business results.
+
+---
+
+## Technologies
+
+- HTML5
+- Responsive Email Design
+- Canva
+- Marketing Strategy
+- Copywriting
+- CRM Concepts
+- Customer Journey Mapping
+
+---
+
+## Author
+
+**Beatriz Sánchez**
+
+Marketing Technology | CRM | Email Marketing | Marketing Automation | Lead Generation
+
+LinkedIn: https://linkedin.com/in/beatriz-sanchez-martech/
+
+GitHub: https://github.com/BeatrizGSA
