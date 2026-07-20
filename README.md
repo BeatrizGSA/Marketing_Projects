@@ -1,14 +1,28 @@
 # 📧 Email Marketing Portfolio
 
+## Author
+
+**Beatriz G. Sánchez A.**
+
+Marketing Technology | CRM | Email Marketing | Marketing Automation | Lead Generation
+
+🌐 **Live Portfolio**  
+https://beatrizgsa.github.io/Email-Marketing-Portfolio/
+
+💼 **LinkedIn**  
+https://linkedin.com/in/beatriz-sanchez-martech/
+
+---
+
 ## About Me
 
-Marketing Technology professional with 7+ years of experience in Digital Marketing, CRM, Lead Generation, and Email Marketing. This repository showcases marketing campaign concepts developed as responsive HTML emails to demonstrate my approach to CRM, lifecycle marketing, customer journeys, and marketing automation.
+Marketing Technology professional with 7+ years of experience in Digital Marketing, CRM, Lead Generation, and Email Marketing. This repository showcases marketing campaign concepts developed as responsive HTML emails, demonstrating my approach to CRM, lifecycle marketing, customer journeys, and marketing automation.
 
 Each project reflects my process of combining marketing strategy, copywriting, user experience, and HTML email development to create engaging customer communications.
 
 ---
 
-# Portfolio Projects
+## Portfolio Projects
 
 | Campaign | Objective | Category |
 |----------|-----------|----------|
@@ -20,7 +34,7 @@ Each project reflects my process of combining marketing strategy, copywriting, u
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 - Email Marketing
 - CRM Marketing
@@ -35,7 +49,7 @@ Each project reflects my process of combining marketing strategy, copywriting, u
 
 ---
 
-# Purpose
+## Purpose
 
 These projects were created as portfolio pieces to demonstrate my ability to plan, write, design, and develop responsive HTML email campaigns aligned with marketing objectives and customer experience best practices.
 
@@ -53,13 +67,6 @@ The repository reflects my interest in Marketing Technology (MarTech), where str
 - CRM Concepts
 - Customer Journey Mapping
 
----
-
-## Author
-
-**Beatriz G. Sánchez A.**
-
-Marketing Technology | CRM | Email Marketing | Marketing Automation | Lead Generation
 
 LinkedIn: https://linkedin.com/in/beatriz-sanchez-martech/
 
